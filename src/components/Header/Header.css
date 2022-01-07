@@ -1,0 +1,11 @@
+.header {
+  background-color: #8bc34a;
+  padding: 5px 0;
+  margin-bottom: 50px;
+}
+
+.header_logo {
+  font-size: 20px;
+  font-weight: 600;
+  color: white;
+}

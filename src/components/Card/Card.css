@@ -1,0 +1,8 @@
+.card_items {
+  display: block;
+}
+
+.card_item {
+  font-size: 20px;
+  margin-bottom: 10px;
+}
